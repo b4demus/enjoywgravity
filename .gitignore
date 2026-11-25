@@ -1,0 +1,7 @@
+*.exe
+*.dll
+*.original-*
+*.log
+*.tmp
+.env
+.env.*
